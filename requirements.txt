@@ -1,0 +1,12 @@
+tk
+pyautogui
+pillow
+google-genai
+langchain
+langchain-groq
+groq
+langchain-core
+PyPDF2
+python-dotenv
+pymongo
+reportlab
